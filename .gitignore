@@ -1,0 +1,9 @@
+*.sw?
+.#*
+*#
+*~
+learningpython/venv/*
+learningpython//venv/**.*
+README.html
+*.iml
+.idea
