@@ -7,5 +7,4 @@ learningpython//venv/**.*
 README.html
 *.iml
 .idea
-__init__.py
 *.pyc
