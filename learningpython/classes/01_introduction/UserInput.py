@@ -8,6 +8,6 @@ Create Date: Oct 17, 2018
  If it is error free then it runs the command and gives required output otherwise shows the error message.
 """
 
-name = input("Enter Name: ")
+name = raw_input("Enter Name: ")
 
 print("Hello " + name + ", Happy Python3 learning")

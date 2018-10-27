@@ -9,9 +9,9 @@ print("A - Addition")
 print("S - Subtraction")
 print("D - Division")
 print("M - Multiply")
-c = input("Your option: ")
-n1 = int(input("Enter 1st number: "))
-n2 = int(input("Enter 2nd number: "))
+c = raw_input("Your option: ") #takes in anything
+n1 = input("Enter 1st number: ") #take in only integers.
+n2 = input("Enter 2nd number: ")
 
 if(c == 'A'):
     a = n1 + n2
