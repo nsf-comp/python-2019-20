@@ -1,4 +1,4 @@
-#Homework 4
+# Homework 4
 
 1. Write a program that return True if the string "cat" and "dog" appear the same number of times in the given string.
 `<'catdog' → True>`

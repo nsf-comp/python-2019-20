@@ -1,4 +1,4 @@
-#Homework 3
+# Homework 3
 
 1. See the `<q1.py>` file. Without running the code, what does this code do?
 1. See the `<q2.py>` file. Without running the code, what does it do?
