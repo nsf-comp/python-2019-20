@@ -1,6 +1,5 @@
 """
 NSF - CODING - Basic Operators
-Create Date: Oct 17, 2018
 """
 
 print("------------------- 1  -------------------")

@@ -1,6 +1,5 @@
 """
 NSF - CODING - Decision Making
-Create Date: Oct 17, 2018
 """
 I = 30
 

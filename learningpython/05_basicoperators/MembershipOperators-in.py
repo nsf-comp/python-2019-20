@@ -1,6 +1,5 @@
 """
 NSF - CODING - Basic Operators
-Create Date: Oct 17, 2018
 
 Membership Operator - 'in'
 Evaluates to true if it finds a variable in the specified sequence and false otherwise.

@@ -1,6 +1,5 @@
 """
 NSF - CODING - Introduction
-Create Date: Oct 17, 2018
 """
 
 num1 = input("Enter Number1: ")

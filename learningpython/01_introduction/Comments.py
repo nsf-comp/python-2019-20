@@ -1,5 +1,3 @@
-
-
 #Single line comment
 
 """

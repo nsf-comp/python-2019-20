@@ -1,7 +1,5 @@
 """
 NSF - CODING - Basic Operators
-Create Date: Oct 17, 2018
-
 
 Membership Operator - 'not in'
 Evaluates to true if it does not finds a variable in the specified sequence and false otherwise.

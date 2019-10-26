@@ -1,6 +1,5 @@
 """
 NSF - CODING - Functions
-Create Date: Oct 17, 2018
 """
 
 def add(a, b):

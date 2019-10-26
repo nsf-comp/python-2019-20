@@ -1,6 +1,5 @@
 """
 NSF - CODING - Numbers
-Create Date: Oct 17, 2018
 """
 import math
 

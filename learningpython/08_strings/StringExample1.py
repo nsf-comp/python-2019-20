@@ -1,6 +1,5 @@
 """
 NSF - CODING - Strings
-Create Date: Oct 17, 2018
 """
 str1 = 'Hello World!'
 

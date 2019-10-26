@@ -1,6 +1,5 @@
 """
 NSF - CODING - Data Structures
-Create Date: Oct 17, 2018
 """
 
 set2 = {1,2,3,4,5}
