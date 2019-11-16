@@ -7,6 +7,6 @@ NSF - CODING - Introduction
  If it is error free then it runs the command and gives required output otherwise shows the error message.
 """
 
-name = raw_input("Enter Name: ")
+name = input("Enter Name: ")
 
 print("Hello " + name + ", Happy Python3 learning")
